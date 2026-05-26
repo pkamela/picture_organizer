@@ -1,0 +1,24 @@
+# The working script contains real student names — never commit it
+graduation_sync.py
+
+# All run snapshot folders contain student photos and names
+copy_from_g_drive/
+
+# Student name list
+student names.txt
+
+# macOS
+.DS_Store
+._*
+
+# Other local files
+*.pptx
+*.png
+*.mp4
+2025/
+backup/
+final presentation/
+movie/
+music/
+students/
+SNCS logos/
